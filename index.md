@@ -7,7 +7,7 @@ Shazia is currently looking for new opportunities (full time, part time, interns
 
 - University of Kashmir, Srinagar : MBA, Human Resources Management and Services
 - Maharshi Dayanand University : Business Administration and Management, General
-- Iqbal Memorial Institute : Higher Secondary (Non-Medical)
+- Iqbal Memorial Institute : Higher Secondary (Medical)
   
 ## Internships
 
