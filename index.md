@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Shazia Akbar
 
-You can use the [editor on GitHub](https://github.com/akbarshazia/akbarshazia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is Shazia Akbar. Shazia is ambitious, adventurous, assiduous, animated, and an alliteration advocate. She holds a Master’s in Business Administration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+## Education
+-University of Kashmir, Srinagar
+  MBA, Human Resources Management and Services 
+-Maharshi Dayanand University
+  Business Administration and Management, General
+-IQBAL MEMORIAL INSTITUTE
+  Non-Medical
+  
+## Internships
+1. Industrial Implant Training
+  **Zaffron Enterprises Pvt. Ltd.**
+  _2012_
+2. Marketing Strategies of J&K Bank
+  **Jammu & Kashmir Bank**
+  _2018_
+3. Effectiveness of Advertisement Tools Used By J&K Bank.
+  **Jammu & Kashmir Bank**
+  _2017_
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Skills
+-Problem Solving
+-Team Motivation
+-Training
+-Marketing
+-Leadership
+-Communication
+-Presentation
+-Management
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Other Interests
+-Shazia is a Political Enthusiast, an Aesthete and a Realist.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akbarshazia/akbarshazia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/shazia-akbar/)
+- shaziaakbar121@gmail.com
