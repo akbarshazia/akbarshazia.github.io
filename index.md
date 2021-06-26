@@ -13,7 +13,7 @@ Shazia is currently looking for new opportunities (full time, part time, interns
 
 1. Industrial Implant Training,
   **Zaffron Enterprises Pvt. Ltd**,
-  _2012_
+  _2021_
 2. Marketing Strategies of J&K Bank,
   **Jammu & Kashmir Bank**,
   _2018_
